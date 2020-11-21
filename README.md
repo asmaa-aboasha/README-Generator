@@ -6,9 +6,9 @@ README-Generator is a command-line application that dynamically generates a prof
 
 ## Table of Contents
 
-* Installation
-* Usage
-* Questions 
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [Questions](#Questions) 
 
 ## Installation 
 
@@ -24,7 +24,7 @@ At completion, a README.md file will generate.
 ## Questions 
 
 For questions, please contact me at:  
-GitHub: https://github.com/asmaa-aboasha
+GitHub: https://github.com/asmaa-aboasha  
 Email: asmaa.aboasha@gmail.com
 
 
